@@ -90,13 +90,12 @@ This AI pipeline processes PDF engineering drawings to extract and annotate dime
 ## 📁 Project Structure
 
 ```
-├── engineering_drawings/
-├── bridge_pages/
+├── engineering drawings/
+├── pdf_pages/
 ├── annotated/
-├── excel_outputs/
+├── output
 ├── main.py
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ## 🛠️ Tech Stack
