@@ -32,7 +32,7 @@ This repository contains an AI agent that ranks resumes based on relevance to a 
 ## 📁 Project Structure
 
 ```
-Main/
+Resume_Ranking/
 ├── Ranking.ipynb
 └── data/
     ├── resume-01.pdf
